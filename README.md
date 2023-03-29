@@ -1,0 +1,2 @@
+# newsletterFooter
+with react hooks
