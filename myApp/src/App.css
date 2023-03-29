@@ -1,0 +1,12 @@
+
+/* body{
+  background-color: white;   
+} */
+body{
+  background-color: #adabab;   
+} 
+.centered{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
